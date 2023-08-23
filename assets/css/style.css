@@ -1,0 +1,119 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.min-100 {
+    min-height: 100vh;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.align-item-center {
+    align-items: center;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.button {
+    background-color: black;
+    border-radius: 10px;
+    border: 2px solid black;
+    width: 120px;
+    height: 46px;
+
+}
+
+.button2 {
+    background-color: black;
+    border-radius: 10px;
+    border: none;
+    width: 120px;
+    height: 46px;
+
+}
+
+.pt-80 {
+    padding-top: 80px;
+}
+
+.box {
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    background-color: rgba(195, 246, 151, 0.87);
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px 5px rgba(70, 39, 39, 0.1);
+}
+
+.font2 {
+    font-weight: 50;
+    font-size: 20px;
+    color: aliceblue;
+    background: rgb(206, 203, 203);
+}
+.pl-10{
+    padding-left: 10px;
+}
+.pt-10{
+    padding-top: 10px;
+}
+.pt-30{
+    padding-top: 30px;
+}
+
+.font {
+    font-weight: 50;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.values {
+    font-weight: 50;
+    font-size: 30px;
+    color: black;
+}
+
+.pt-20 {
+    padding-top: 20px;
+}
+
+.pt-50 {
+    padding-top: 50px;
+}
+
+.ResetBtn {
+    background-color: rgb(37, 32, 32);
+    border-radius: 10px;
+    width: 120px;
+    height: 46px;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.button2-disabled {
+    background: rgb(163, 162, 162);
+    color: white;
+
+}
+
+.mb-30 {
+    padding-bottom: 30px;
+}
+
+.font1 {
+    font-weight: 50;
+    font-size: 50px;
+    color: black;
+}
+
+.flex-direction {
+    flex-direction: column;
+}
